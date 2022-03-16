@@ -1,0 +1,8 @@
+site_name: "colby-dev-box"
+site_description: "My Dev Box"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
